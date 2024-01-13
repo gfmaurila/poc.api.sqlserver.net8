@@ -18,7 +18,7 @@ Este projeto implementa uma Minimal API com .NET Core 8, integrada ao SQL Server
 ## Configuração e Instalação
 
 ### Clonando o Repositório
-Clone o repositório usando: [https://github.com/gfmaurila/poc.api.mongodb.net8](https://github.com/gfmaurila/poc.api.sqlserver.net8)
+Clone o repositório usando: https://github.com/gfmaurila/poc.api.sqlserver.net8
 
 ### Configurando o Docker e Docker Compose
 docker-compose up --build
