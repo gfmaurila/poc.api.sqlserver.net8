@@ -1,0 +1,13 @@
+
+
+Add-Migration Inicial -Context SqlServerDb
+
+Update-Database -Context SqlServerDb
+
+docker-compose up --build
+
+
+{
+  "email": "gfmaurila@gmail.com",
+  "password": "@G29l12a10"
+}
