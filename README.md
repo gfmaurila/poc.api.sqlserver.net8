@@ -25,8 +25,11 @@ docker-compose up --build
 http://localhost:5071/swagger/index.html
 
 ### SQL Server
-Add-Migration Inicial -Context SqlServerDb
-Update-Database -Context SqlServerDb
+- Add-Migration Inicial -Context SqlServerDb
+- Update-Database -Context SqlServerDb
+
+## Youtube
+https://www.youtube.com/watch?v=v-_yNDviInQ
 
 ## Autor
 
